@@ -1,0 +1,14 @@
+MI JORNADA — PWA
+
+Incluye:
+- Marcar entrada y salida.
+- Turnos que pueden terminar al día siguiente.
+- Cálculo de horas y ganancias con tarifa inicial de $100 MXN/h.
+- Historial local y tarifa editable.
+- Caché offline mediante Service Worker.
+
+IMPORTANTE:
+Para instalar como aplicación PWA desde Chrome, los archivos deben estar publicados en una dirección HTTPS. Abrir index.html desde el administrador de archivos no activa la instalación PWA ni el modo offline del Service Worker.
+
+Siguiente paso:
+Publicar esta carpeta en un alojamiento estático HTTPS. Después abrir su dirección en Chrome Android, tocar el menú ⋮ y elegir "Instalar aplicación" o "Agregar a pantalla principal".

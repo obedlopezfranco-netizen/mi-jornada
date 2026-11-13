@@ -1,0 +1,14 @@
+{
+  "name": "Mi Jornada",
+  "short_name": "Mi Jornada",
+  "description": "Registro de horas laborales y cálculo de ganancias",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "lang": "es-MX",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
